@@ -15,3 +15,7 @@ forge "http://forge.puppetlabs.com"
 #mod 'apache',
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
+
+mod 'hello',
+  :git    => 'https://github.com/pecode/puppetlabs-hello',
+  :ref    => 'master'
