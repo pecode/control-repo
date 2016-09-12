@@ -21,6 +21,6 @@ mod "puppetlabs/vcsrepo",      '1.3.2'
 #  :git    => 'https://github.com/pecode/puppetlabs-hello',
 #  :ref    => 'master'
 
-mod 'wls',
-  :git    => 'https://github.com/pecode/puppetlabs-wls',
-  :ref    => 'master'
+#mod 'wls',
+#  :git    => 'https://github.com/pecode/puppetlabs-wls',
+#  :ref    => 'master'
