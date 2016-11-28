@@ -24,3 +24,7 @@ mod 'hello',
 #mod 'wls',
 #  :git    => 'https://github.com/pecode/puppetlabs-wls',
 #  :ref    => 'master'
+
+mod 'chocolatey',
+    :git    => 'https://github.com/ferventcoder/puppet-chocolatey',
+    :ref    => 'ticket/master/MODULES-4135-version_malformed'
