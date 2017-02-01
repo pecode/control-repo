@@ -18,9 +18,9 @@ mod "puppetlabs/mysql",      '3.10.0'
 #  :git    => 'https://github.com/puppetlabs/puppetlabs-apache',
 #  :branch => 'docs_experiment'
 
-#mod 'hello',
-#  :git    => 'https://github.com/pecode/puppetlabs-hello',
-#  :ref    => 'master'
+mod 'hello',
+  :git    => 'https://github.com/pecode/puppetlabs-hello',
+  :ref    => 'master'
 
 mod 'freepbx',
   :git    => 'https://github.com/camptocamp/puppet-freepbx',
