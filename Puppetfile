@@ -23,7 +23,7 @@ mod "puppetlabs/mysql",      '3.10.0'
 #  :ref    => 'master'
 
 mod 'freepbx',
-  :git    => 'https://github.com/camptocamp/puppetlabs-freepbx',
+  :git    => 'https://github.com/camptocamp/puppet-freepbx',
   :ref    => '1.0.10'
 
 #mod 'wls',
