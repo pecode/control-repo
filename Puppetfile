@@ -8,6 +8,11 @@ mod "puppetlabs/stdlib",      '4.13.1'
 mod "puppetlabs/vcsrepo",      '1.3.2'
 mod "puppetlabs/mysql",      '3.10.0'
 
+#some shit for freepbx
+#mod "camptocamp-mysql", ????? wtf
+mod "puppet-staging", '2.1.0'
+mod "puppetlabs-apache", '1.11.10'
+  
 # Modules from Git
 # Examples: https://github.com/puppetlabs/r10k/blob/master/doc/puppetfile.mkd#examples
 #mod 'apache',
